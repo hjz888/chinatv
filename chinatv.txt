@@ -13,10 +13,12 @@
 新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
 新闻综合,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001014/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
+新闻综合,http://58.32.18.118:4022/rtp/239.45.3.209:5140
 上海都市,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001015/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8?
 上海都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
+上海都市,http://58.32.18.118:4022/rtp/239.45.3.236:5140
 上海都市,http://60.205.114.16/live/shds.m3u8?user=APTV66&line=1
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://60.205.114.16/live/wxty.m3u8?user=APTV66&line=3
@@ -28,6 +30,7 @@
 第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8?
 第一财经,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226172/1.m3u8
 第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
+第一财经,http://58.32.18.118:4022/rtp/239.45.3.211:5140
 上海ICS外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
 上海ICS外语,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
 上海ICS外语,http://60.205.114.16/live/shics.m3u8?user=APTV66&line=3
@@ -86,6 +89,7 @@ CCTV4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k
 CCTV16_4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
+CCTV16_4K,http://58.32.18.118:4022/rtp/239.45.1.21:5140
 广东4K超高清,http://220.231.188.200:8089/hls/30/index.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
