@@ -9,7 +9,6 @@
 新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
 新闻综合,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
 新闻综合,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001014/1.m3u8
-新闻综合,http://60.205.114.16/live/shxwzh.m3u8?user=APTV66&line=1
 新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
 新闻综合,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001014/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
@@ -19,9 +18,7 @@
 上海都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
 上海都市,http://58.32.18.118:4022/rtp/239.45.3.236:5140
-上海都市,http://60.205.114.16/live/shds.m3u8?user=APTV66&line=1
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
-五星体育,http://60.205.114.16/live/wxty.m3u8?user=APTV66&line=3
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,http://60.205.114.16/live/jbty.m3u8?user=APTV66&line=3
@@ -33,7 +30,6 @@
 第一财经,http://58.32.18.118:4022/rtp/239.45.3.211:5140
 上海ICS外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
 上海ICS外语,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
-上海ICS外语,http://60.205.114.16/live/shics.m3u8?user=APTV66&line=3
 上海教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001053/index.m3u8?
 上海教育,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001268/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
@@ -49,9 +45,6 @@
 乐游,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 乐游,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001200/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 生活时尚,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001199/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-生活时尚,http://60.205.114.16/live/shss.m3u8?user=APTV66&line=3
-魅力足球,http://60.205.114.16/live/mlzq.m3u8?user=APTV66&line=1
-新视觉,http://60.205.114.16/live/xsj.m3u8?user=APTV66&line=1
 东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
 东方财经,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001318/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 金色学堂,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001194/1.m3u8
@@ -60,24 +53,6 @@
 七彩戏剧,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001308/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 哈哈炫动,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
 BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-看天下精选,http://60.205.114.16/live/ktxjx.m3u8?user=APTV66&line=3
-华语影院,http://60.205.114.16/live/hyyy.m3u8?user=APTV66&line=3
-电竞天堂,http://60.205.114.16/live/djtt.m3u8?user=APTV66&line=3
-星光影院,http://60.205.114.16/live/xgyy.m3u8?user=APTV66&line=3
-谍战剧场,http://60.205.114.16/live/dzjc.m3u8?user=APTV66&line=3
-全球大片,http://60.205.114.16/live/qqdp.m3u8?user=APTV66&line=3
-热门剧场,http://60.205.114.16/live/rmjc.m3u8?user=APTV66&line=3
-热门综艺,http://60.205.114.16/live/rmzy.m3u8?user=APTV66&line=3
-戏曲精选,http://60.205.114.16/live/xqjx.m3u8?user=APTV66&line=3
-健康养生,http://60.205.114.16/live/jkys.m3u8?user=APTV66&line=3
-百变课堂,http://60.205.114.16/live/bbkt.m3u8?user=APTV66&line=3
-百视通体育1,http://60.205.114.16/live/sport1.m3u8?user=APTV66&line=3
-百视通体育2,http://60.205.114.16/live/sport2.m3u8?user=APTV66&line=3
-百视通体育3,http://60.205.114.16/live/sport3.m3u8?user=APTV66&line=3
-百视通体育4,http://60.205.114.16/live/sport4.m3u8?user=APTV66&line=3
-百视通体育5,http://60.205.114.16/live/sport5.m3u8?user=APTV66&line=3
-百视通体育6,http://60.205.114.16/live/sport6.m3u8?user=APTV66&line=3
-百视通体育7,http://60.205.114.16/live/sport7.m3u8?user=APTV66&line=3
 东方购物,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001039/index.m3u8?
 东方购物,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001040/index.m3u8?
 
