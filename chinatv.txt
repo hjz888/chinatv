@@ -12,22 +12,20 @@
 新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
 新闻综合,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001014/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-新闻综合,http://58.32.18.118:4022/rtp/239.45.3.209:5140
+新闻综合,http://116.235.25.239:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 上海都市,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001015/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8?
 上海都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-上海都市,http://58.32.18.118:4022/rtp/239.45.3.236:5140
+上海都市,http://116.235.25.239:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-劲爆体育,http://60.205.114.16/live/jbty.m3u8?user=APTV66&line=3
 第一财经,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001017/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8?
 第一财经,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226172/1.m3u8
 第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
-第一财经,http://58.32.18.118:4022/rtp/239.45.3.211:5140
 上海ICS外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
 上海ICS外语,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
 上海教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001053/index.m3u8?
@@ -35,7 +33,6 @@
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
 东方影视,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-欢笑剧场,http://116.232.113.69:4022/udp/239.45.3.196:5140
 都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8?
 都市剧场,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 都市剧场,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
@@ -59,17 +56,12 @@ BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000
 4k,#genre#
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CCTV4K,http://60.205.114.16/live/cctv4k.m3u8?user=APTV66&line=3
-CCTV4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV16_4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
-CCTV16_4K,http://58.32.18.118:4022/rtp/239.45.1.21:5140
-广东4K超高清,http://220.231.188.200:8089/hls/30/index.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
@@ -79,7 +71,6 @@ CCTV16_4K,http://58.32.18.118:4022/rtp/239.45.1.21:5140
 欢笑剧场4K,http://111.13.111.242/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3&HlsProfileId=
 欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
-绚影4K专区,http://222.212.90.192:18000/udp/239.93.42.33:5140
 Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
@@ -217,8 +208,6 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221231022/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-无线新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
-无线新闻台,http://gwtv.cnv8.tv:8097/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
