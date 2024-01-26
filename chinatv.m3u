@@ -14,7 +14,7 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000182/ind
 #EXTINF:-1,tvg-id="东方上海" tvg-name="东方上海" tvg-logo="https://epg.112114.xyz/logo/东方上海.png" group-title="上海",东方上海
 http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",新闻综合
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226620/1.m3u8
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",新闻综合
 http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",新闻综合
