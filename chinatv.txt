@@ -15,16 +15,27 @@
 上海ICS外语,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
 纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纪实人文,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+纪实人文,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226174/1.m3u8
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 都市剧场,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
+都市剧场,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226176/1.m3u8
 金色学堂,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
+劲爆体育,https://live3.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
+乐游,https://live3.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
+魅力足球,https://live3.rxip.sc96655.com/live/mlyy_4000.m3u8
+七彩戏剧,https://live3.rxip.sc96655.com/live/qcxj_2000.m3u8
+生活时尚,https://live3.rxip.sc96655.com/live/shssH265_4000.m3u8
+生活时尚,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226358/1.m3u8
+新视觉,https://live3.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
+东方财经,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226602/1.m3u8
 BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-
+上海东方购物,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226691/1.m3u8
+上海东方购物,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226711/1.m3u8
+上海东方购物,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226622/1.m3u8
 
 4k,#genre#
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CCTV16_4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
@@ -35,8 +46,7 @@ CCTV16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/22
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 欢笑剧场4K,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-欢笑剧场4K,http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/kxjc4k/8000000/d3.m3u8
-欢笑剧场4K,http://111.13.111.242/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3&HlsProfileId=
+欢笑剧场4K,https://live3.rxip.sc96655.com/live/hxjc-4k_8000.m3u8
 欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
