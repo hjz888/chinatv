@@ -4,13 +4,12 @@
 东方卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
 新闻综合,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 新闻综合,http://cf.21534450.xyz:9988/rtp/239.45.3.209:5140
 新闻综合,http://a.jack4096.top:10001/rtp/239.45.3.209:5140
 新闻综合,http://116.225.115.4:4022/rtp/239.45.3.209:5140
 新闻综合,http://www.i-movie.net:8888/rtp/239.45.3.209:5140
 新闻综合,http://222.67.77.0:4022/udp/239.45.3.209:5140
-新闻综合,http://180.158.51.129:4022/udp/239.45.3.209:5140
+新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海都市,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 上海都市,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 上海都市,http://cf.21534450.xyz:9988/rtp/239.45.3.236:5140
