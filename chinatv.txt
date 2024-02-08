@@ -2,6 +2,7 @@
 东方卫视,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
+东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 东方卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
 新闻综合,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
@@ -31,6 +32,7 @@
 东方影视,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 欢笑剧场,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 都市剧场,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
+都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 金色学堂,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
 乐游频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
 金色学堂,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
@@ -49,6 +51,7 @@
 教育台,http://cf.21534450.xyz:9988/rtp/239.45.3.122:5140
 东方财经,http://cf.21534450.xyz:9988/rtp/239.45.1.119:5140
 金色学堂,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
+金色学堂,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
 纪实科教,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 哒啵电竞,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8
 哒啵赛事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
@@ -151,7 +154,6 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 贵州卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?icpid=3&RTS=1669700688&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-辽宁卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1668597896&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1668597937&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
@@ -172,6 +174,7 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
