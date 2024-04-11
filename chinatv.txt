@@ -1,5 +1,4 @@
 上海,#genre#
-全民热练,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8$8.1M_1080
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
