@@ -3,6 +3,7 @@
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.0.118:2191
+凤凰卫视,http://tptv.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?accountinfo=pFxP2vrxKwnB6rRkbluzLr1snyVtUvL0ln7oEaT%2FZn10jZxgbY2HUwDYbDsdLBomvnnHS%2Fwexz1UYCk%2BgA3K%2FpVmN4ksD2FQ92IXsdC3G7ldu9XJHCjJGd7DJ%2FIdAqJXp6jzgqsHVMBWu4n0REhZxQ%3D%3D%3A20240413145502%2C-%2C112.25.7.222%2C20240413145502%2CHD-10000k-1080P-fhchinese5s%2C992A307DD03B66D4A24A1380D2238385%2C%2C0%2C1%2C-1%2C%2C2%2C%2C-1%2C-3%2C2%2CEND&GuardEncType=2
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰卫视,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
